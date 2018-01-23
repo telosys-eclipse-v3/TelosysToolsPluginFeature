@@ -1,0 +1,8 @@
+
+In feature.xml set a "Branding plugin" 
+Files in the "Branding plugin" :
+. about.ini
+. image specified in "about.ini"
+
+http://ekkescorner.wordpress.com/2010/06/13/brand-your-feature-and-be-part-of-about-eclipse/ 
+

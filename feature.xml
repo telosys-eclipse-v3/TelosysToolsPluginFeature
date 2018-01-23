@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.telosys.tools.eclipse.feature"
+      label="Telosys Code Generator"
+      version="3.0.0"
+      provider-name="Telosys Project"
+      plugin="org.telosys.tools.eclipse.plugin">
+
+   <description url="http://www.telosys.org">
+      Telosys Code Generator - Version 3.0.0
+The lightest and easiest code generator 
+including a lightweight model manager, 
+a code generator
+and a Velocity templates editor
+   </description>
+
+   <copyright>
+      Copyright (c) 2008-2017 Telosys Team.
+All rights reserved. 
+This program and the accompanying materials
+are made available under the term of 
+the Eclipse Public License v 1.0
+which accompanies this distribution, and is available at 
+http://www.eclipse.org/legal/epl-v10.html
+   </copyright>
+
+   <license url="http://www.eclipse.org/legal/epl-v10.html">
+      Eclipse Public License v1.0
+   </license>
+
+   <url>
+      <discovery label="Telosys plugin update site" url="http://www.telosys.org/eclipse"/>
+   </url>
+
+   <plugin
+         id="org.telosys.tools.eclipse.plugin"
+         download-size="0"
+         install-size="0"
+         version="3.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.telosys.tools.eclipse.plugin.help"
+         download-size="0"
+         install-size="0"
+         version="3.0.0"
+         unpack="false"/>
+
+</feature>
