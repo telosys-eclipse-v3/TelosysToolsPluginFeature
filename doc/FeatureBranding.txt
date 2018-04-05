@@ -6,4 +6,4 @@ Files in the "Branding plugin" :
 
 http://ekkescorner.wordpress.com/2010/06/13/brand-your-feature-and-be-part-of-about-eclipse/ 
 
-----------
+
