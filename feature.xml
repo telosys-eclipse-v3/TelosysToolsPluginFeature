@@ -2,12 +2,12 @@
 <feature
       id="org.telosys.tools.eclipse.feature"
       label="Telosys Code Generator"
-      version="3.1.2.001"
+      version="3.1.2.002"
       provider-name="Telosys Project"
       plugin="org.telosys.tools.eclipse.plugin">
 
    <description url="http://www.telosys.org">
-      Telosys Code Generator - Version 3.1.2.001
+      Telosys Code Generator - Version 3.1.2.002
 The lightest and easiest code generator 
 including a lightweight model manager, 
 a code generator
@@ -37,14 +37,14 @@ http://www.eclipse.org/legal/epl-v10.html
          id="org.telosys.tools.eclipse.plugin"
          download-size="0"
          install-size="0"
-         version="3.1.2.001"
+         version="3.1.2.002"
          unpack="false"/>
 
    <plugin
          id="org.telosys.tools.eclipse.plugin.help"
          download-size="0"
          install-size="0"
-         version="3.1.2.001"
+         version="3.1.2.002"
          unpack="false"/>
 
 </feature>
