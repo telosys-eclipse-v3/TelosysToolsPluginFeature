@@ -6,4 +6,6 @@ Files in the "Branding plugin" :
 
 http://ekkescorner.wordpress.com/2010/06/13/brand-your-feature-and-be-part-of-about-eclipse/ 
 
+http://books.gigatux.nl/mirror/eclipseplugins/032142672X/ch18lev1sec2.html
 
+https://www.linuxtopia.org/online_books/eclipse_documentation/eclipse_platform_plug-in_developer_guide/topic/org.eclipse.platform.doc.isv/reference/misc/eclipse_platform_plugin_about_customization.html
