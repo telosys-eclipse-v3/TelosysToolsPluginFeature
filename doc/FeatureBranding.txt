@@ -4,6 +4,9 @@ Files in the "Branding plugin" :
 . about.ini
 . image specified in "about.ini"
 
+# featureImage : a 32x32 pixel image used in the About dialog
+# Must be packaged with the plugin, don't forget to add it in build.properties
+
 http://ekkescorner.wordpress.com/2010/06/13/brand-your-feature-and-be-part-of-about-eclipse/ 
 
 http://books.gigatux.nl/mirror/eclipseplugins/032142672X/ch18lev1sec2.html
